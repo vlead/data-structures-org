@@ -1,0 +1,11 @@
+
+** Unary System Simulation
+   #+BEGIN_HTML
+   <p><button onclick="popup()">Full Screen</button></p>
+   <p><iframe src="http://cse01-iiith.vlabs.ac.in/exp1/UnarySystem.html" width="802" height="602"> </iframe></p>
+   <script>// <![CDATA[
+   function popup(){
+   window.open('http://cse01-iiith.vlabs.ac.in/exp1/UnarySystem.html', '_blank', 'toolbar=0,location=0,menubar=0');
+   }
+   // ]]></script>
+   #+END_HTML
